@@ -38,5 +38,6 @@ Terraform code to deploy an Apache server instance linked to one subnetwork unde
 
 
 * Test it with: ````terraform validate````
-* Plan and delopy the infrastructure: ````terraform plan```` (Higher version than Terraform 0.11.0)
+* Plan the infrastructure: ````terraform plan````
+* Deploy the infrastructure: ````terraform apply````
 
